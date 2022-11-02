@@ -13,7 +13,7 @@
     <Name>AKHMI</Name>
     <HmiCommunicationRouterPort>10113</HmiCommunicationRouterPort>
     <HmiFrameworkVersion>Latest</HmiFrameworkVersion>
-    <HmiCommunicationServerPort>3001</HmiCommunicationServerPort>
+    <HmiCommunicationServerPort>3002</HmiCommunicationServerPort>
     <HmiInitial>1.10.1342.0</HmiInitial>
     <HmiRecent>1.10.1342.0</HmiRecent>
   </PropertyGroup>

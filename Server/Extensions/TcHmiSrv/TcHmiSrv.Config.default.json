@@ -28,7 +28,7 @@
     "DEFLATECOMPRESSIONLEVEL": 5,
     "DISCOVERY": 2,
     "ENDPOINTS": [
-        "http://127.0.0.1:3001"
+        "http://127.0.0.1:3002"
     ],
     "ETAGENABLED": true,
     "EXTENSIONS": {
@@ -2123,6 +2123,19 @@
             },
             "USEMAPPING": true
         },
+        "PLC1.Global_Variables.IDControlReady": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::Global_Variables::IDControlReady",
+            "OPTIONS": {
+                "comment": "IDControl Ready"
+            },
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/BOOL"
+            },
+            "USEMAPPING": true
+        },
         "PLC1.Global_Variables.KS_CabinetEmergency_contact1": {
             "ACCESS": 3,
             "CUSTOMERDATA": "",
@@ -2933,6 +2946,16 @@
             },
             "USEMAPPING": true
         },
+        "PLC1.MAIN.InsertionDeviceName": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::MAIN::InsertionDeviceName",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/STRING(80)"
+            },
+            "USEMAPPING": true
+        },
         "PLC1.MAIN.PhaseLowerSetValue": {
             "ACCESS": 3,
             "CUSTOMERDATA": "",
@@ -3038,6 +3061,46 @@
             "CUSTOMERDATA": "",
             "DOMAIN": "ADS",
             "MAPPING": "PLC1::MAIN::TemperatureSensors_8",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/LREAL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.MAIN.ValueSet_LeftBottom": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::MAIN::ValueSet_LeftBottom",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/LREAL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.MAIN.ValueSet_LeftTop": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::MAIN::ValueSet_LeftTop",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/LREAL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.MAIN.ValueSet_RightBottom": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::MAIN::ValueSet_RightBottom",
+            "SCHEMA": {
+                "$ref": "tchmi:general#/definitions/LREAL"
+            },
+            "USEMAPPING": true
+        },
+        "PLC1.MAIN.ValueSet_RightTop": {
+            "ACCESS": 3,
+            "CUSTOMERDATA": "",
+            "DOMAIN": "ADS",
+            "MAPPING": "PLC1::MAIN::ValueSet_RightTop",
             "SCHEMA": {
                 "$ref": "tchmi:general#/definitions/LREAL"
             },
