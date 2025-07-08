@@ -4796,7 +4796,7 @@
 
 </div>
 
-<div id="TcHmiTextbox_146" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="1048" data-tchmi-left-unit="px"  data-tchmi-top="658" data-tchmi-top-unit="px" data-tchmi-width="57" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.UserMode.min_UserGapPositionNew|Interval=10%/s%" data-tchmi-zindex="4">
+<div id="TcHmiTextbox_146" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="1048" data-tchmi-left-unit="px"  data-tchmi-top="658" data-tchmi-top-unit="px" data-tchmi-width="57" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.Global_Variables.min_UserGapPositionNew|Interval=10%/s%" data-tchmi-zindex="4">
 <script data-tchmi-target-attribute="data-tchmi-content-padding" type="application/json">
 {
   "top": 3,
@@ -4842,7 +4842,7 @@
 
 </div>
 
-<div id="TcHmiTextbox_147" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="1118" data-tchmi-left-unit="px"  data-tchmi-top="658" data-tchmi-top-unit="px" data-tchmi-width="57" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.UserMode.max_UserGapPositionNew|Interval=10%/s%" data-tchmi-zindex="4">
+<div id="TcHmiTextbox_147" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="1118" data-tchmi-left-unit="px"  data-tchmi-top="658" data-tchmi-top-unit="px" data-tchmi-width="57" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.Global_Variables.max_UserGapPositionNew|Interval=10%/s%" data-tchmi-zindex="4">
 <script data-tchmi-target-attribute="data-tchmi-content-padding" type="application/json">
 {
   "top": 3,
@@ -4878,7 +4878,7 @@
 
 </div>
 
-<div id="TcHmiTextbox_148" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="1047" data-tchmi-left-unit="px"  data-tchmi-top="692" data-tchmi-top-unit="px" data-tchmi-width="57" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.UserMode.min_UserPhaseUpperPositionNew|Interval=10%/s%" data-tchmi-zindex="4">
+<div id="TcHmiTextbox_148" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="1047" data-tchmi-left-unit="px"  data-tchmi-top="692" data-tchmi-top-unit="px" data-tchmi-width="57" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.Global_Variables.min_UserPhaseUpperPositionNew|Interval=10%/s%" data-tchmi-zindex="4">
 <script data-tchmi-target-attribute="data-tchmi-content-padding" type="application/json">
 {
   "top": 3,
@@ -4898,7 +4898,7 @@
 </script>
 </div>
 
-<div id="TcHmiTextbox_149" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="1117" data-tchmi-left-unit="px"  data-tchmi-top="692" data-tchmi-top-unit="px" data-tchmi-width="57" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.UserMode.max_UserPhaseUpperPositionNew|Interval=10%/s%" data-tchmi-zindex="4">
+<div id="TcHmiTextbox_149" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="1117" data-tchmi-left-unit="px"  data-tchmi-top="692" data-tchmi-top-unit="px" data-tchmi-width="57" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.Global_Variables.max_UserPhaseUpperPositionNew|Interval=10%/s%" data-tchmi-zindex="4">
 <script data-tchmi-target-attribute="data-tchmi-content-padding" type="application/json">
 {
   "top": 3,
@@ -4926,7 +4926,7 @@
 
 </div>
 
-<div id="TcHmiTextbox_150" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="1047" data-tchmi-left-unit="px"  data-tchmi-top="728" data-tchmi-top-unit="px" data-tchmi-width="57" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.UserMode.min_UserPhaseLowerPositionNew|Interval=10%/s%" data-tchmi-zindex="4">
+<div id="TcHmiTextbox_150" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="1047" data-tchmi-left-unit="px"  data-tchmi-top="728" data-tchmi-top-unit="px" data-tchmi-width="57" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.Global_Variables.min_UserPhaseLowerPositionNew|Interval=10%/s%" data-tchmi-zindex="4">
 <script data-tchmi-target-attribute="data-tchmi-content-padding" type="application/json">
 {
   "top": 3,
@@ -4946,7 +4946,7 @@
 </script>
 </div>
 
-<div id="TcHmiTextbox_151" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="1117" data-tchmi-left-unit="px"  data-tchmi-top="728" data-tchmi-top-unit="px" data-tchmi-width="57" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.UserMode.max_UserPhaseLowerPositionNew|Interval=10%/s%" data-tchmi-zindex="4">
+<div id="TcHmiTextbox_151" data-tchmi-type="tchmi-textbox" data-tchmi-height="26" data-tchmi-height-unit="px" data-tchmi-left="1117" data-tchmi-left-unit="px"  data-tchmi-top="728" data-tchmi-top-unit="px" data-tchmi-width="57" data-tchmi-width-unit="px" data-tchmi-text="%s%PLC1.Global_Variables.max_UserPhaseLowerPositionNew|Interval=10%/s%" data-tchmi-zindex="4">
 <script data-tchmi-target-attribute="data-tchmi-content-padding" type="application/json">
 {
   "top": 3,
